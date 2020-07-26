@@ -1,3 +1,2 @@
-# transactional-
-Made a transaction email for start /due to one day plus added the footer ..now what's left is reponsive
-
+# transactional-HTML EMAILS
+Made a transaction email to this template here
